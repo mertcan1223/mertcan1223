@@ -16,4 +16,4 @@ I am a sophomore **Industrial Engineering** student at Istanbul Kültür Univers
 - Formula 1 Operations & Data Analysis
 - Process Simulation & Optimization
 
-📫 Connect with me on LinkedIn!
+📫 Connect with me on LinkedIn! (www.linkedin.com/in/mertcan-bal-800b62246)
