@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Mertcan!
 
-<!--
-**mertcan1223/mertcan1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a sophomore **Industrial Engineering** student at Istanbul Kültür University. I focus on data analytics, process optimization, and using business intelligence tools to make workflows more efficient.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Programming:** Python (Pandas, Scikit-learn, Numpy)
+- **Data Visualization:** Power BI, Excel, SQL
+- **Technical Design:** AutoCAD, SOLIDWORKS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Developing **Machine Learning** models for sales and demand forecasting.
+- Working on data-driven solutions for supply chain and production planning.
+- Bridging the gap between Industrial Engineering principles and software development.
+
+### 🏎 Interests
+- Formula 1 Operations & Data Analysis
+- Process Simulation & Optimization
+
+📫 Connect with me on LinkedIn!
